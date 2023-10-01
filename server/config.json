@@ -1,0 +1,8 @@
+{
+    "mongoUrl": "mongodb://admin:admin@localhost:27017/?authMechanism=DEFAULT",
+    "port": 4001,
+    "usersTableName" : "users",
+    "groupsTableName" : "groups",
+    "userGroupsTableName" : "usergroups",
+    "messagesTableName": "messages"
+}
