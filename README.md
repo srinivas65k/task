@@ -13,5 +13,3 @@ i have done a e2e testing in the postman
 
 here is the link
 
-
-https://api.postman.com/collections/21838975-64b5a1fb-6d94-43cc-8601-5471ab58b107?access_key=PMAT-01HBD09NM2XA55KSYXP24YKW40
