@@ -11,5 +11,5 @@ link to testing enviroment
 i have gave a one test example for the this in test.py
 i have done a e2e testing in the postman
 
-here is the link
 
+Also make sure that DB connection for localhost is quiet difference from the others please check and change it accordingly thank you
